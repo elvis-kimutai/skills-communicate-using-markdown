@@ -9,4 +9,7 @@ $ git init
 fabrizoooo
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Listen to my fav playlist
+- [x] work out
+- [ ] code
 
